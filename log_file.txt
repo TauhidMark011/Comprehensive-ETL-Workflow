@@ -1,0 +1,28 @@
+2025-01-14 14:01:15.608430 - ETL process started
+2025-01-14 14:01:15.608803 - Starting data transformation
+2025-01-14 14:01:58.940004 - ETL process started
+2025-01-14 14:01:58.940317 - Starting data transformation
+2025-01-14 14:33:31.771579 - ETL process started
+2025-01-14 14:33:31.777140 - Extracting data from D:\source\source1.csv
+2025-01-14 14:33:31.783981 - Extracting data from D:\source\source2.csv
+2025-01-14 14:33:31.786303 - Extracting data from D:\source\source3.csv
+2025-01-14 14:33:31.788858 - Extracting data from {file_path}
+2025-01-14 14:33:31.791494 - Extracting data from {file_path}
+2025-01-14 14:33:31.793617 - Extracting data from {file_path}
+2025-01-14 14:33:31.795279 - extracting data from D:\source\source1.xml
+2025-01-14 14:50:18.829779 - ETL process started
+2025-01-14 14:50:18.833557 - Extracting data from D:\source\source1.csv
+2025-01-14 14:50:18.837699 - Extracting data from D:\source\source2.csv
+2025-01-14 14:50:18.840356 - Extracting data from D:\source\source3.csv
+2025-01-14 14:50:18.843030 - Extracting data from {file_path}
+2025-01-14 14:50:18.844770 - Extracting data from {file_path}
+2025-01-14 14:50:18.846190 - Extracting data from {file_path}
+2025-01-14 14:50:18.847946 - extracting data from D:\source\source1.xml
+2025-01-14 14:50:18.849517 - extracting data from D:\source\source2.xml
+2025-01-14 14:50:18.851024 - extracting data from D:\source\source3.xml
+2025-01-14 14:50:18.852612 - Data extraction completed
+2025-01-14 14:50:18.870186 - Starting data transformation
+2025-01-14 14:50:18.872157 - Data transformation completed
+2025-01-14 14:50:18.872469 - Saving transformed data to transformed_data.csv
+2025-01-14 14:50:18.877153 - Data loading completed..!
+2025-01-14 14:50:18.877455 - ETL process completed
